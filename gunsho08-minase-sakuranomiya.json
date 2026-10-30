@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/minase-sakuranomiya-utaawase",
  "yomi": "みなせさくらのみやじゅうごばんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十五番・恋）",
+  "era": "建仁2年（1202）",
+  "author": "主催 後鳥羽院／判者 藤原俊成（釈阿）",
+  "desc": "水無瀬の桜宮で催された十五番の歌合。春恋・夏恋・秋恋・羈中恋・山家恋などさまざまな恋の題で、良経・慈円・俊成卿女・宮内卿・定家・有家・家隆・雅経が詠み、釈阿が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
